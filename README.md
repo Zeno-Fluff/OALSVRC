@@ -16,17 +16,18 @@ OALSVRC is a standalone audio analysis system that captures system audio, breaks
 # The Idea
 To give VRChat users full control over avatar reactions to system audio — making AudioLink truly external, customizable, and universal.
 
+
 # License
 - Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International
 
 ## You are free to:
 - Share — copy and redistribute the material in any medium or format 
 
-## NonCommercial 
+## NonCommercial:
 — You may not use the material for commercial purposes 
 
-## NoDerivatives 
+## NoDerivatives:
 — If you remix, transform, or build upon the material, you may not distribute the modified material.
  
-## Attribution 
+## Attribution:
 — You must give appropriate credit.
