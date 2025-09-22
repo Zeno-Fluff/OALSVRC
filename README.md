@@ -1,4 +1,4 @@
-<img width="947" height="917" alt="OALSVRC" src="https://github.com/user-attachments/assets/15cce5b0-029e-4092-a0a4-574ab43f45ec" />
+<img width="999" height="990" alt="OALSVRC" src="https://github.com/user-attachments/assets/7464083f-3834-4138-9849-f1a357505e10" />
 
 currently in development.
 ---
