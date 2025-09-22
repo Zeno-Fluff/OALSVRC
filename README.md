@@ -26,10 +26,10 @@ To give VRChat users full control over avatar reactions to system audio — maki
 - Share — copy and redistribute the material in any medium or format 
 
 ## NonCommercial:
-— You may not use the material for commercial purposes 
+- You may not use the material for commercial purposes 
 
 ## NoDerivatives:
-— If you remix, transform, or build upon the material, you may not distribute the modified material.
+- If you remix, transform, or build upon the material, you may not distribute the modified material.
  
 ## Attribution:
-— You must give appropriate credit.
+- You must give appropriate credit.
