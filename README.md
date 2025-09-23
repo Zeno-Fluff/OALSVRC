@@ -15,9 +15,18 @@ OALSVRC is a standalone audio analysis system that captures system audio, breaks
 - GUI for live control, presets, and OSC routing
 - In-VR feedback messages for connection status
 
-# The Idea
-To give VRChat users full control over avatar reactions to system audio — making AudioLink truly external, customizable, and universal.
+# Primary Focus
+OALSVRC is built primarily for VRChat avatars, giving users full control over how their avatars react to system audio. It enhances AudioLink by making it truly external, customizable, and universal.
 
+## Beyond VRChat
+While designed for avatars, OALSVRC can be used with:
+- VRChat worlds (via OSC listeners)
+- OSC-enabled games (e.g., ChilloutVR, NeosVR)
+- Interactive installations
+- Live performance setups
+- Custom Unity projects
+
+Its flexible OSC architecture makes it compatible with any system that can receive OSC data—opening up possibilities far beyond its original intent.
 
 # License
 - Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International
