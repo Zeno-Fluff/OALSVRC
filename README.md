@@ -1,6 +1,5 @@
 <img width="1000" height="901" alt="Oalsvrclogo-1" src="https://github.com/user-attachments/assets/b92a8a91-c6e2-451b-9a44-991f264c0327" />
 
-
 currently in development.
 ---
 # OALSVRC: Outside AudioLink System for VRChat
