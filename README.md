@@ -2,7 +2,7 @@
 
 currently in development.
 ---
-# OALSVRC: Outside of VRChat AudioLink System–VRChat
+# OALSVRC: Outside AudioLink System for VRChat
 
 OALSVRC is a standalone audio analysis system that captures system audio, breaks it down into bass, mids, highs, amplitude, and waveform, and sends real-time data to VRChat avatars via OSC. It allows avatars to react to any music playing on your device — Spotify, YouTube, games, anything — without needing in-world audio or mic routing.
 
